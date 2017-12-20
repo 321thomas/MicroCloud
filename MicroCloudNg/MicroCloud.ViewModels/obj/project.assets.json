@@ -3768,11 +3768,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.ViewModels\\MicroCloud.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.ViewModels\\MicroCloud.ViewModels.csproj",
       "projectName": "MicroCloud.ViewModels",
-      "projectPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.ViewModels\\MicroCloud.ViewModels.csproj",
+      "projectPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.ViewModels\\MicroCloud.ViewModels.csproj",
       "packagesPath": "C:\\Users\\jut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

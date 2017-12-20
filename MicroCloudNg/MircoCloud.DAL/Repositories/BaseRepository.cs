@@ -17,12 +17,16 @@ namespace MircoCloud.DAL.Repositories
         }
         public void CreateOrUpdate(TModel model)
         {
-            throw new NotImplementedException();
+            this.dbContext.Add(model);
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            TModel model = this.GetById(id);
+            if (model != null)
+            {
+                this.dbContext.Remove(model);
+            }
         }
 
         public IList<TModel> GetAll()
@@ -37,12 +41,16 @@ namespace MircoCloud.DAL.Repositories
 
         public TModel GetById(int id)
         {
-            throw new NotImplementedException();
+            return this.dbContext.Set<TModel>().Find(id);
         }
 
         public Task<TModel> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return this.dbContext.Set<TModel>().FindAsync(id);
+        }
+        public Task SaveChangesAsync()
+        {
+            return this.dbContext.SaveChangesAsync();
         }
     }
 }

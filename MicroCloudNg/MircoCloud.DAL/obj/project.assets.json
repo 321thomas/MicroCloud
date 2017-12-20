@@ -5689,11 +5689,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MircoCloud.DAL\\MircoCloud.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MircoCloud.DAL\\MircoCloud.DAL.csproj",
       "projectName": "MircoCloud.DAL",
-      "projectPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MircoCloud.DAL\\MircoCloud.DAL.csproj",
+      "projectPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MircoCloud.DAL\\MircoCloud.DAL.csproj",
       "packagesPath": "C:\\Users\\jut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MircoCloud.DAL\\obj\\",
+      "outputPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MircoCloud.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,6 +8,7 @@ namespace MircoCloud.DAL.Models
     {
         public Guid Key { get; set; }
 
-        public User User { get; set; }
+        //public int UserId { get; set; }
+        public virtual ApplicationUser User { get; set; }
     }
 }

@@ -7038,11 +7038,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.Mocks\\MicroCloud.Mocks.csproj",
+      "projectUniqueName": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.Mocks\\MicroCloud.Mocks.csproj",
       "projectName": "MicroCloud.Mocks",
-      "projectPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.Mocks\\MicroCloud.Mocks.csproj",
+      "projectPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.Mocks\\MicroCloud.Mocks.csproj",
       "packagesPath": "C:\\Users\\jut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.Mocks\\obj\\",
+      "outputPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.Mocks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7061,8 +7061,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.BusinessServices\\MicroCloud.BusinessServices.csproj": {
-              "projectPath": "C:\\Users\\jut\\Documents\\Visual Studio 2017\\Projects\\MicroCloudNg\\MicroCloud.BusinessServices\\MicroCloud.BusinessServices.csproj"
+            "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.BusinessServices\\MicroCloud.BusinessServices.csproj": {
+              "projectPath": "C:\\Users\\jut\\DevProjekte\\Priv\\MicroCloud\\MicroCloudNg\\MicroCloud.BusinessServices\\MicroCloud.BusinessServices.csproj"
             }
           }
         }

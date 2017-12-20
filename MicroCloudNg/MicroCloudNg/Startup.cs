@@ -5,13 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using MicroCloud.Auth;
 using MicroCloud.BusinessServices;
+using MicroCloud.Helpers;
 using MicroCloud.Mocks.BusinessServices;
 using MicroCloud.ViewModels;
-using MicroCloudNg.Auth;
+//using MicroCloudNg.Auth;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -42,7 +44,7 @@ namespace MicroCloudNg
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
             services.AddTransient<IUserService, UserServiceMock>();
-
+            services.AddTransient<IRegistrationService, RegistrationService>();
             services.AddSingleton<IJwtFactory, JwtFactory>();
 
             services.AddMvc();
@@ -59,13 +61,29 @@ namespace MicroCloudNg
                 options.SigningCredentials = new SigningCredentials(_signingKey, SecurityAlgorithms.HmacSha256);
             });
 
-            services.AddIdentity<UserVm, IdentityRole>()
-                 .AddUserStore<CustomUserStore>();
+            services.AddIdentity<ApplicationUser, ApplicationRole>()
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
+
+            // api user claim policy
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("ApiUser", policy => policy.RequireClaim(Constants.Strings.JwtClaimIdentifiers.Rol, Constants.Strings.JwtClaims.ApiAccess));
+            });
+
+            services.AddTransient<DataSeeder>();
+
+            //services.AddIdentity<ApplicationUser, ApplicationRole>()
+            //    .AddUserManager<UserManager<ApplicationUser>>()
+            //    .AddUserStore<UserStore<ApplicationUser>>();
+
+            //services.AddIdentity<UserVm, IdentityRole>()
+            //     .AddUserStore<CustomUserStore>();
         }
-       
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, DataSeeder dataSeeder)
         {
             if (env.IsDevelopment())
             {
@@ -120,7 +138,8 @@ namespace MicroCloudNg
                     defaults: new { controller = "Home", action = "Index" });
             });
 
-           
+            //dataSeeder.SeedAdminUser();
+
         }
     }
 }

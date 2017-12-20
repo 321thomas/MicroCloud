@@ -18,5 +18,7 @@ namespace MircoCloud.DAL.Repositories
         void Delete(int id);
 
         void CreateOrUpdate(TModel model);
+
+        Task SaveChangesAsync();
     }
 }

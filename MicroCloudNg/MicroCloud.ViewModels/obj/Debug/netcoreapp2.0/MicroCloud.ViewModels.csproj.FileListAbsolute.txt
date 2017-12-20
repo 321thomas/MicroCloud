@@ -7,3 +7,12 @@ C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.ViewM
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.AssemblyInfo.cs
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.dll
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\bin\Debug\netcoreapp2.0\MicroCloud.ViewModels.deps.json
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\bin\Debug\netcoreapp2.0\MicroCloud.ViewModels.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\bin\Debug\netcoreapp2.0\MicroCloud.ViewModels.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.AssemblyInfoInputs.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.AssemblyInfo.cs
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.ViewModels\obj\Debug\netcoreapp2.0\MicroCloud.ViewModels.pdb

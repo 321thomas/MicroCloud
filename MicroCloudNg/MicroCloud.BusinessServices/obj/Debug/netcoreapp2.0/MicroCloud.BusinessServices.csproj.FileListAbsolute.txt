@@ -11,3 +11,16 @@ C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.Busin
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.pdb
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MircoCloud.DAL.dll
 C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MircoCloud.DAL.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MicroCloud.BusinessServices.deps.json
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MicroCloud.BusinessServices.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MicroCloud.BusinessServices.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MicroCloud.ViewModels.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MircoCloud.DAL.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MicroCloud.ViewModels.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\bin\Debug\netcoreapp2.0\MircoCloud.DAL.pdb
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.AssemblyInfoInputs.cache
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.AssemblyInfo.cs
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.dll
+C:\Users\jut\DevProjekte\Priv\MicroCloud\MicroCloudNg\MicroCloud.BusinessServices\obj\Debug\netcoreapp2.0\MicroCloud.BusinessServices.pdb
