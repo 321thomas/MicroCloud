@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroCloudNg", "MicroCloudNg\MicroCloudNg.csproj", "{B752E906-8270-4B55-A406-A1F586E86BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MircoCloud.DAL", "MircoCloud.DAL\MircoCloud.DAL.csproj", "{643EB650-CDA2-4CCD-BF02-37D9F310E319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroCloud.ViewModels", "MicroCloud.ViewModels\MicroCloud.ViewModels.csproj", "{3FDAAD02-CD43-49E3-A004-179BD967F884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroCloud.BusinessServices", "MicroCloud.BusinessServices\MicroCloud.BusinessServices.csproj", "{38BF401F-CE82-45B5-8DC9-A4FC672871BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroCloud.Mocks", "MicroCloud.Mocks\MicroCloud.Mocks.csproj", "{9EE63A4C-F855-4D06-B7EE-17D714B7D965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B752E906-8270-4B55-A406-A1F586E86BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B752E906-8270-4B55-A406-A1F586E86BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B752E906-8270-4B55-A406-A1F586E86BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B752E906-8270-4B55-A406-A1F586E86BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643EB650-CDA2-4CCD-BF02-37D9F310E319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643EB650-CDA2-4CCD-BF02-37D9F310E319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643EB650-CDA2-4CCD-BF02-37D9F310E319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643EB650-CDA2-4CCD-BF02-37D9F310E319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FDAAD02-CD43-49E3-A004-179BD967F884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDAAD02-CD43-49E3-A004-179BD967F884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDAAD02-CD43-49E3-A004-179BD967F884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDAAD02-CD43-49E3-A004-179BD967F884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BF401F-CE82-45B5-8DC9-A4FC672871BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BF401F-CE82-45B5-8DC9-A4FC672871BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BF401F-CE82-45B5-8DC9-A4FC672871BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BF401F-CE82-45B5-8DC9-A4FC672871BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE63A4C-F855-4D06-B7EE-17D714B7D965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE63A4C-F855-4D06-B7EE-17D714B7D965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE63A4C-F855-4D06-B7EE-17D714B7D965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE63A4C-F855-4D06-B7EE-17D714B7D965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC205E0-61AD-436F-A64A-3AED1CBBD181}
+	EndGlobalSection
+EndGlobal

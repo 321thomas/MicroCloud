@@ -1,0 +1,9 @@
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\bin\Debug\netcoreapp2.0\MircoCloud.DAL.deps.json
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\bin\Debug\netcoreapp2.0\MircoCloud.DAL.dll
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.AssemblyInfoInputs.cache
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.AssemblyInfo.cs
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\bin\Debug\netcoreapp2.0\MircoCloud.DAL.pdb
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.dll
+C:\Users\jut\Documents\Visual Studio 2017\Projects\MicroCloudNg\MircoCloud.DAL\obj\Debug\netcoreapp2.0\MircoCloud.DAL.pdb
